@@ -1,5 +1,5 @@
 {
-  "name": "noffle-bar",
+  "name": "bar",
   "version": "1.0.0",
   "description": "Generates status bar lines for bar.",
   "main": "index.js",
